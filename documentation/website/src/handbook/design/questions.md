@@ -4,7 +4,7 @@ layout: handbook.hbs
 ---
 # Questions
 
-A "question" in one of the five building blocks of the [Screenplay Pattern](/handbook/design/screenplay-pattern.html). 
+A "question" is one of the five building blocks of the [Screenplay Pattern](/handbook/design/screenplay-pattern.html). 
 
 Answering a question enables the [actor](/handbook/design/actors.html) to retrieve information about the state of the system under test or its execution environment. 
 
